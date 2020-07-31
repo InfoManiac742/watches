@@ -1,0 +1,5 @@
+Resources for EarthBound
+
+http://earthbound-rom-explorer.herokuapp.com/
+https://github.com/Herringway/ebsrc
+https://datacrystal.romhacking.net/wiki/EarthBound
