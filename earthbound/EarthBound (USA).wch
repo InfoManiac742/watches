@@ -1,0 +1,4 @@
+SystemID SNES
+009C08	w	h	0	WRAM	Event flags
+009C09	b	h	0	WRAM	Spawns (0x04)
+
