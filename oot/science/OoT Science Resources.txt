@@ -1,0 +1,82 @@
+Ultimate OoT Spreadsheet: 
+https://docs.google.com/spreadsheets/d/1Sl_ay1qPxTrs6xBTpVeqhKFrJjOGYyh3Tg1W0Ch5aHw/edit
+
+OoT Glitch/Trick Discovery List by Date: 
+https://docs.google.com/document/d/1KymmXOp-b_PA4ErWX70VRV5TcpbC5Nh6espdCOlwtd0/edit
+
+OoT Trick Database (by superguerrer): 
+https://docs.google.com/spreadsheets/d/1skOgJLDhb8Rauw2-nQzcEdL3GThWuY0VD5CxpfZCpZI/edit
+
+Cloudmodding wiki:
+https://wiki.cloudmodding.com/oot/Main_Page
+
+GIM Tables for all versons (by Exodus): 
+https://docs.google.com/spreadsheets/d/1SLJzamokLb7wDOaJh5x8DsxmMBy9oIYawyDN3dAWppw/edit
+
+SRM- Modify Chest contents with z coordinate
+https://docs.google.com/spreadsheets/d/1EvDpVxGHbD1DgNIdDro1x9Cb4SfP5Roc5ElsX1SrKNU/edit?usp=drivesdk
+
+Original GIM Table (by mzxrules): 
+https://docs.google.com/spreadsheets/d/1iC55h-oy3NAIW739yNQ8Cg9QNpDGTyVRys_NLHpnG_o/edit
+
+Item Chart with version differences (by Exodus):
+https://docs.google.com/spreadsheets/d/1xnnnWGMQckNOzamxZENF9hurLahkfsHlfmMLNodS5RA/edit
+
+Void Warp Locations:
+https://docs.google.com/spreadsheets/d/1vaxR8bu62UI_B7_Up7hH6LYRCYBvZRTaLX2vIFuSj_c/edit
+
+Ground Clip Floors (by blini): 
+https://docs.google.com/spreadsheets/d/1WGV_hcbq-eTsE1QndpRpAKHIJtdOoArSkgpOC016xc0/edit
+
+Linear Velocity Clips (by Exodus):
+https://docs.google.com/spreadsheets/d/1nidLZ2g8772G0CX_duyJDP6-77xKOwbxB-RTtamMCeA/edit
+
+Player States list (by Exodus):
+https://docs.google.com/spreadsheets/d/1YodOXyMM59kuMW6RiBWeGvIzmUVTqjT7FLQlwMzA4z8/edit
+
+Action Swap Combination Chart (by mubbsy):
+https://docs.google.com/spreadsheets/d/1kkTjpibGjiKcjZ_0q8g38tKjG2c2L8aKoBNwEKAElnE/edit#gid=0
+
+OoT Damage Charts (by Aria Tanner):
+https://docs.google.com/spreadsheets/d/1pXvFipVwQPoD4MCuUij8CLLZ_P7np4aNdgn1f8ziXso/edit
+
+RBA List for Items 0-255:
+https://docs.google.com/spreadsheets/d/1O3pZEEO8Hza7BEjXtN5iqYJwlemXRAllXQvOL6qGUlw/edit
+
+Linked Cutscene Wrong Warp Notes (by Exodus): 
+https://docs.google.com/spreadsheets/d/1WH2Y4tu4D4IYKCLBOUa1eOwC-qNLgX_8UYhBfQMQyQg/edit
+
+Linked Cutscene Wrong Warp Potential Destinations (by Jolin):
+https://docs.google.com/spreadsheets/d/1CrExlJyUfzPRdQzBfWo27N_AzSMsGpjyxr_oAmlEpiE/edit
+
+Original FW Wrong Warp Testing Sheet:
+https://docs.google.com/spreadsheets/d/17Jm6501JMF6x4YUs0I8rrUWCUdsIhvauhZJV8yRjVFk/edit
+
+ZeldaSpeedRuns wiki:
+http://www.zeldaspeedruns.com/oot
+
+
+Flag Listings:
+
+Switch Flags (by mzxrules): 
+https://docs.google.com/spreadsheets/d/1LRaJHrOCvE5GNwEWhHtf8WRAcYs1xAMxl1ysOGdUP1E/edit#
+
+All Permanent Flags (by Aria Tanner):
+https://docs.google.com/spreadsheets/d/1CyaDpxY2lMq3_j6nqI3uzHUt0pl5r36kzpOv069d_Ms/edit
+
+Temp Flags:
+https://docs.google.com/spreadsheets/d/1i9Fsy1osyfw2Wf0PAjol7f2fWXfvW7l4yaHvS7N0LeM/edit?usp=drivesdk
+
+Practice ROM - Watches and flags (by zfg):
+https://docs.google.com/spreadsheets/d/1xKMd4W9tVhPHbT5BeZx4eEYZSdj685ClTXY6dFURN-E/edit
+
+
+Pastebin documentation:
+Navi Timer documentation:
+https://pastebin.com/MR6gyqWJ
+
+OoT Fishing Minigame documentation:
+https://pastebin.com/WQrpxRCM
+
+How glitched item actions work:
+https://pastebin.com/khnFCw4K
