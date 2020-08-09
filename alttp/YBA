@@ -4,4 +4,4 @@ Overworld Transition + Red Potion = Glitched circular fade-in (no effects)
 Overworld Transition + Green Potion = Blue Potion (no side effects)
 Overworld Transition + Blue Potion = Fake Flute
 
-Underworld Subtile + Red Potion = Glitched up scrolling and stuff (weird effects)
+Underworld Subtile: Same effects as overworld, but screws up the scrolling
