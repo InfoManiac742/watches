@@ -1,0 +1,24 @@
+Route: https://pastebin.com/MudJaAcW
+
+Q: Why is it allowed to use glitches to obtain items in this category? Doesn't that violate the source requirement restriction?
+A: Using glitches to obtain items early is allowed, but only if they are subsequently obtained from their original source as well. For example, it's perfectly legal to use glitches to get Longshot early, but you still need to open the chest in Water Temple that contains Longshot to fulfill source requirement.
+
+Q: How do I see X emote?
+A: You need a browser extension to see certain emotes. The two extensions are FFZ and BTTV.
+
+SRM:
+FW SRM: https://youtu.be/Qufs6KN_QhM
+Age Change SRM: https://youtu.be/nO-nlfBvMmk
+Title Screen SRM: https://youtu.be/R3dScdKAsoo
+
+Explanations:
+RBA: https://youtu.be/lQQlbnJzxUI
+SRM: https://www.zeldaspeedruns.com/oot/srm/srm-explained
+Wrong Warp: https://www.zeldaspeedruns.com/oot/wrongwarp/wrong-warp
+100% LOTAD: https://youtu.be/wHZGiJD2KNk
+
+Other:
+OoT Version Differences: https://tcrf.net/The_Legend_of_Zelda:_Ocarina_of_Time/Program_Revision_Differences
+OoT Science Resources: https://pastebin.com/cDbHEsAU
+
+https://cdn.discordapp.com/attachments/347847075477848064/735917747829211146/100-demo-final.zip
