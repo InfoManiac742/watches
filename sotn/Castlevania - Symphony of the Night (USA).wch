@@ -1,0 +1,31 @@
+SystemID PSX
+097BA0	d	u	0	MainRAM	HP
+097BA4	d	u	0	MainRAM	Max HP
+097BA8	d	u	0	MainRAM	Hearts
+097BAC	d	u	0	MainRAM	Max Hearts
+097BB0	d	u	0	MainRAM	MP
+097BB4	d	u	0	MainRAM	Max MP
+097BB8	d	u	0	MainRAM	Base STR
+097BBC	d	u	0	MainRAM	Base CON
+097BC0	d	u	0	MainRAM	Base INT
+097BC4	d	u	0	MainRAM	Base LCK
+097BC8	d	u	0	MainRAM	STR Bonus
+097BCC	d	u	0	MainRAM	CON Bonus
+097BD0	d	u	0	MainRAM	INT Bonus
+097BD4	d	u	0	MainRAM	LCK Bonus
+097BD8	d	u	0	MainRAM	Total STR
+097BDC	d	u	0	MainRAM	???
+097BE0	d	u	0	MainRAM	???
+097BE4	d	u	0	MainRAM	Total LCK
+097BE8	d	u	0	MainRAM	Level
+097BEC	d	u	0	MainRAM	XP
+097BF0	d	u	0	MainRAM	Gold
+097BF4	d	u	0	MainRAM	Kills
+097C00	b	h	0	MainRAM	Right Hand
+097C04	b	h	0	MainRAM	Left Hand
+097C08	b	h	0	MainRAM	Head
+097C0C	b	h	0	MainRAM	Body
+097C10	b	h	0	MainRAM	Cloak
+097C14	b	h	0	MainRAM	Other 1
+097C18	b	h	0	MainRAM	Other 2
+
