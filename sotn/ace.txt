@@ -1,0 +1,17 @@
+My notes for the ACE route
+
+Make sure you're playing on a NEW file
+Don't get 41 hearts: we don't want the neutron bomb
+Make sure you finish with zero hearts though (Heart Refresh)
+
+==Alucard Game==
+Kill all of the wargs and only the wargs.
+Do not kill the zombies.
+Do not pick up any gold drops.
+Heart drops are okay/good?
+
+==Death Skip==
+Right Hand: Equip Heart Refresh
+Do death skip with the Heart Refresh
+Right Hand: Equip Alucard Sword
+Right Hand: Swap "Row 2 Right" with "Row 3 Left"
