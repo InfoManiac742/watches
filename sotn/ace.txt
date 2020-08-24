@@ -4,4 +4,5 @@ Sockfolder explation: https://www.twitch.tv/videos/46826094
 ==Reset Frame==
 0-89:   No Save File
 90-102: Version Error
-103+:   God Frames?
+103-11?:   Level up?
+115: God frame
