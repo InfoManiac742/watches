@@ -17,4 +17,5 @@ Do death skip with the Heart Refresh
 Right Hand: Equip Alucard Sword
 Right Hand: Swap "Row 2 Right" with "Row 3 Left"
 
-Kill the first enemy (Drops a Short Sword)
+Kill the first enemy (Get the Short Sword)
+Kill the second enemy (Get the Red Rust)
