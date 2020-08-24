@@ -1,2 +1,6 @@
 Credits Warp (Nathan): https://youtu.be/_7oHDwVevp8
 Sockfolder explation: https://www.twitch.tv/videos/46826094
+
+==Reset Frame==
+0-89:  No Save File
+90-??: Corrupted Save File (Version Error)
