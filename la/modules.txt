@@ -1,3 +1,6 @@
 Documentation of the memory values FB95 and FB96 (System Bus).
 
 Currently, this has only been tested on LADX JP 1.0.
+
+00: Opening Cutscene
+  00-03: Shipwreck CS
