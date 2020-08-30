@@ -2,5 +2,5 @@ Documentation of the memory values FB95 and FB96 (System Bus).
 
 Currently, this has only been tested on LADX JP 1.0.
 
-00: Opening CS
-01: Ending CS
+00: Opening CS (0B)
+01: Ending CS (09)
