@@ -12,3 +12,4 @@ Currently, this has only been tested on LADX JP 1.0.
 07: Map Screen (06)
 08: Peach/"Christine" Photo (06)
 09: Marin Beach CS (0E)
+0A: Southern Face Shrine Inscription CS (06)
