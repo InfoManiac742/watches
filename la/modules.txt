@@ -14,3 +14,4 @@ Currently, this has only been tested on LADX JP 1.0.
 09: Marin Beach CS (0E)
 0A: Southern Face Shrine Inscription CS (06)
 0B: Gameplay (07)
+0C: Start Menu (0C)
