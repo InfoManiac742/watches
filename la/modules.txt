@@ -9,4 +9,5 @@ Currently, this has only been tested on LADX JP 1.0.
 04: Delete File (0B)
 05: File Copy (0A)
 06: S&Q Screen (06)
-07: Map Screen (07)
+07: Map Screen (06)
+08: Peach/"Christine" Photo (06)
