@@ -18,3 +18,6 @@ Currently, this has only been tested on LADX JP 1.0.
 0D: Photo Menu (13)
 0E: "Game Over" Photo
 0F: "Here Stands a Brave Man" Photo
+10: Photo 2 CS
+11: ???
+12: Photo 4 CS
