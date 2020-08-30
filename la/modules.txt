@@ -7,3 +7,4 @@ Currently, this has only been tested on LADX JP 1.0.
 02: File Select (09)
 03: Naming Screen (02)
 04: Delete File (0B)
+05: File Copy (0A)
