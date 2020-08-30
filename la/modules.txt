@@ -4,3 +4,4 @@ Currently, this has only been tested on LADX JP 1.0.
 
 00: Opening CS (0B)
 01: Ending CS (09)
+02: File Select (09)
