@@ -4,7 +4,7 @@
 01B0: Heart
 0B3C: 100 Rupees
 0DB4: 5 Rupees
-5618: Rope
+38D9: Rope
 69AB: Beetle
 7A25: Fairy
 
