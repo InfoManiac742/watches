@@ -20,3 +20,8 @@
 ==Grass (Tile)==
 8C1D: Nothing
 9DB8: Heart
+
+==Burnable Tree==
+0D37: 1 Rupee
+2534: Nothing
+6FA3: 5 Rupees
