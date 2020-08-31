@@ -5,4 +5,4 @@
 4E26: 1 Rupee
 7040: Beetle
 B96E: Fairy
-FD9B: 5 Rupees
+D25C: 5 Rupees
