@@ -3,6 +3,6 @@
 01B0: Heart
 08AC: Nothing
 0B3C: 100 Rupees
+0DB4: 5 Rupees
 7040: Beetle
 B96E: Fairy
-D25C: 5 Rupees
