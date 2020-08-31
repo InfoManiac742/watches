@@ -4,9 +4,9 @@
 01B0: Heart
 0B3C: 100 Rupees
 0DB4: 5 Rupees
+5618: Rope
 69AB: Beetle
 7A25: Fairy
-FFC4: Rope*
 
 ==Digging (Pile)==
 01A3: 5 Rupees
