@@ -1,4 +1,4 @@
-==Digging==
+==Digging (Ground)==
 01A3: 1 Rupee
 01B0: Heart
 0377: Nothing
@@ -6,3 +6,9 @@
 0DB4: 5 Rupees
 69AB: Beetle
 7A25: Fairy
+
+==Digging (Pile)==
+01A3: 5 Rupees
+01B0: Heart
+0377: Nothing
+6904: 1 Rupee
