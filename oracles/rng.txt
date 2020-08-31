@@ -17,3 +17,4 @@
 4DD5: Nothing
 
 ==Grass (Tile)==
+E01E: Nothing
