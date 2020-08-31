@@ -4,5 +4,5 @@
 0377: Nothing
 0B3C: 100 Rupees
 0DB4: 5 Rupees
-7040: Beetle
+69AB: Beetle
 7A25: Fairy
