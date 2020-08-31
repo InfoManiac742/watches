@@ -3,3 +3,4 @@
 FD9B: 5 Rupees
 F893: 1 Rupee
 C8C3: Heart
+7C4F: Beetle
