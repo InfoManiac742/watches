@@ -12,7 +12,7 @@ FFC4: Rope*
 01A3: 5 Rupees
 01B0: Heart
 0377: Nothing
-3738: 1 Rupee
+03A1: 1 Rupee
 
 ==Grass (Walkable) (Includes sword slash)==
 00C5: Nothing
