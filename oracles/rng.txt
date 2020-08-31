@@ -1,3 +1,4 @@
 ==Digging==
 0D37: Nothing
 FD9B: 5 Rupees
+F893: 1 Rupee
