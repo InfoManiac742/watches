@@ -6,7 +6,7 @@
 0DB4: 5 Rupees
 3244: Fairy
 38D9: Rope
-69AB: Beetle
+648C: Beetle
 
 ==Digging (Pile)==
 01A3: 5 Rupees
