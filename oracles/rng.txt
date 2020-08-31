@@ -25,4 +25,4 @@
 04E3: 5 Rupees
 0798: Nothing
 0D37: 1 Rupee
-2C99: Heart
+16AE: Heart
