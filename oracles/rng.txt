@@ -11,4 +11,4 @@
 01A3: 5 Rupees
 01B0: Heart
 0377: Nothing
-6904: 1 Rupee
+3738: 1 Rupee
