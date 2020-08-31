@@ -1,7 +1,7 @@
 ==Digging==
 01A3: 1 Rupee
 01B0: Heart
-08AC: Nothing
+03FA: Nothing
 0B3C: 100 Rupees
 0DB4: 5 Rupees
 7040: Beetle
