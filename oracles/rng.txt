@@ -23,6 +23,6 @@
 
 ==Burnable Tree==
 04E3: 5 Rupees
+0798: Nothing
 0D37: 1 Rupee
-2534: Nothing
 2C99: Heart
