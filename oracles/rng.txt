@@ -1,7 +1,7 @@
 ==Digging==
 01B0: Heart
+08AC: Nothing
 0B3C: 100 Rupees
-0D37: Nothing
 4E26: 1 Rupee
 7C4F: Beetle
 B96E: Fairy
