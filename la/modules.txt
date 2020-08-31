@@ -19,5 +19,9 @@ Currently, this has only been tested on LADX JP 1.0.
 0E: "Game Over" Photo
 0F: "Here Stands a Brave Man" Photo
 10: Photo 2 CS
-11: ???
+11: N/A
 12: Photo 4 CS
+13: Photo 5 CS
+14: Photo 6 CS
+15: N/A
+16: Photo 8 CS
