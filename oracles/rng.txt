@@ -1,8 +1,8 @@
 ==Digging==
+0B3C: 100 Rupees
 0D37: Nothing
-FD9B: 5 Rupees
-F893: 1 Rupee
-C8C3: Heart
+4E26: 1 Rupee
 7C4F: Beetle
 B96E: Fairy
-0B3C: 100 Rupees
+C8C3: Heart
+FD9B: 5 Rupees
