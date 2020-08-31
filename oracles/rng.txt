@@ -12,3 +12,6 @@
 01B0: Heart
 0377: Nothing
 3738: 1 Rupee
+
+==Grass (You'll want a spin attack charged)==
+107A: Nothing
