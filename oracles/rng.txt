@@ -13,5 +13,7 @@
 0377: Nothing
 3738: 1 Rupee
 
-==Grass (You'll want a spin attack charged)==
-107A: Nothing
+==Grass (Walkable) (Includes sword slash)==
+4DD5: Nothing
+
+==Grass (Tile)==
