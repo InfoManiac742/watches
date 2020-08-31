@@ -24,4 +24,5 @@
 ==Burnable Tree==
 0D37: 1 Rupee
 2534: Nothing
+2C99: Heart
 6FA3: 5 Rupees
