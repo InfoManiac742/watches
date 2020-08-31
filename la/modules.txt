@@ -25,3 +25,7 @@ Currently, this has only been tested on LADX JP 1.0.
 14: Photo 6 CS
 15: N/A
 16: Photo 8 CS
+17: Photo 9 CS
+18: Photo 10 CS
+19: Photo 11 CS
+1A: Photo 12 CS
