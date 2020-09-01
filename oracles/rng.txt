@@ -2,9 +2,9 @@
 00C5: Nothing
 01A3: 1 Rupee
 01B0: Heart
+0933: Fairy
 0B3C: 100 Rupees
 0DB4: 5 Rupees
-3244: Fairy
 38D9: Rope
 648C: Beetle
 
