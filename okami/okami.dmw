@@ -1,0 +1,25 @@
+{
+    "watchList": [
+        {
+            "address": "808B9916",
+            "baseIndex": 3,
+            "label": "No label",
+            "typeIndex": 0,
+            "unsigned": true
+        },
+        {
+            "address": "808B9916",
+            "baseIndex": 3,
+            "label": "No label",
+            "typeIndex": 0,
+            "unsigned": true
+        },
+        {
+            "address": "808B9916",
+            "baseIndex": 3,
+            "label": "No label",
+            "typeIndex": 0,
+            "unsigned": true
+        }
+    ]
+}
