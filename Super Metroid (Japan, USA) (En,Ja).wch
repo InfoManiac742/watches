@@ -1,0 +1,4 @@
+SystemID SNES
+0009C2	w	u	0	WRAM	Health
+000F8C	w	u	0	WRAM	Enemy 1 HP
+

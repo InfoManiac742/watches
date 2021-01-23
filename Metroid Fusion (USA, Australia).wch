@@ -1,0 +1,7 @@
+SystemID GBA
+1310	b	u	0	IWRAM	Energy
+1314	b	u	0	IWRAM	Missiles
+125A	w	h	0	IWRAM	
+125C	w	h	0	IWRAM	
+01C4	b	h	0	IWRAM	
+
