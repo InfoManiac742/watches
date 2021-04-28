@@ -1,0 +1,7 @@
+SystemID SNES
+0002B0	b	u	0	WRAM	
+0002B8	b	u	0	WRAM	
+001A74	d	h	0	WRAM	
+001A7E	b	u	0	WRAM	
+00946A	b	u	0	WRAM	
+

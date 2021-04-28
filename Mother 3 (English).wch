@@ -1,0 +1,19 @@
+SystemID GBA
+0200B578	w	h	0	System Bus	Room
+0200C492	b	h	0	System Bus	Encounters (0x09)
+0200C493	b	h	0	System Bus	Walk through walls (0x10)
+0	S	_	1		
+01E790	d	u	0	Combined WRAM	
+01E794	d	u	0	Combined WRAM	
+01FB9C	d	u	0	Combined WRAM	
+01E5A8	d	u	0	Combined WRAM	(1, 1)
+01F99C	d	u	0	Combined WRAM	(1, 2)
+020D44	d	u	0	Combined WRAM	(1, 3)
+01E798	d	u	0	Combined WRAM	(1P, 1)
+01EE48	d	u	0	Combined WRAM	(2, 1)
+01FEC0	d	u	0	Combined WRAM	(3, 1)
+01E858	d	u	0	Combined WRAM	(M 1, 1)
+02007C	d	u	0	Combined WRAM	(M 1, 2)
+021494	d	u	0	Combined WRAM	(M 1, 3)
+024948	d	u	0	Combined WRAM	(M 1, 4)
+

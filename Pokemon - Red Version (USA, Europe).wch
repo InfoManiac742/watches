@@ -1,0 +1,12 @@
+SystemID GB
+00CD38	b	h	0	System Bus	Walls
+00CFE6	w	u	1	System Bus	Enemy HP
+00CFE9	b	h	0	System Bus	Enemy Status
+00D059	b	h	0	System Bus	Instant Encounter
+00D127	b	u	0	System Bus	Instant Encounter Level
+00D186	w	h	1	System Bus	Party Mon 1 DVs
+00D359	w	u	1	System Bus	Trainer ID
+00D887	b	h	0	System Bus	Grass Encounter Rate
+0	S	_	1		
+00D72D	b	h	0	System Bus	
+

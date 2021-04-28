@@ -1,0 +1,14 @@
+SystemID NES
+000026	w	h	0	System Bus	RNG
+0603	b	u	0	RAM	P1 HP
+0681	b	h	0	RAM	Enemy 1 Status
+0683	w	u	0	RAM	Enemy 1 HP
+0784	w	h	0	Battery RAM	Ninten X-pos
+0786	w	h	0	Battery RAM	Ninten Y-pos
+1410	w	u	0	Battery RAM	Money on Hand
+1412	w	u	0	Battery RAM	Money in Bank
+1450	b	u	0	Battery RAM	Ninten Level
+1451	w	u	0	Battery RAM	Ninten Exp
+1456	b	u	0	Battery RAM	Ninten PP
+0029	b	h	0	RAM	
+

@@ -1,0 +1,8 @@
+SystemID N64
+1EF67C	w	h	1	RDRAM	Time of Day
+1EF684	d	s	1	RDRAM	Time Speed
+1F35AB	b	u	1	RDRAM	Boat Ride
+400910	w	h	1	RDRAM	Blast Mask
+40F940	w	u	1	RDRAM	Shooting Gallery
+1EF670	d	h	1	RDRAM	
+

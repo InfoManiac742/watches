@@ -1,0 +1,5 @@
+SystemID NES
+0039	b	h	0	RAM	3C
+0022	b	h	0	RAM	
+0012	b	u	0	RAM	
+

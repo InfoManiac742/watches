@@ -1,0 +1,4 @@
+SystemID GBA
+0200B578	w	h	0	System Bus	Room
+0200C493	b	h	0	System Bus	Walk through walls (0x10)
+

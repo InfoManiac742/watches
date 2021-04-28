@@ -1,0 +1,9 @@
+SystemID SGB
+00CFE6	w	u	1	System Bus	Enemy HP
+00D186	w	h	1	System Bus	Party Mon 1 DVs
+00D359	w	u	1	System Bus	Trainer ID
+00CD38	b	h	0	System Bus	Walls
+00D059	b	h	0	System Bus	Instant Encounter
+00D127	b	u	0	System Bus	Encounter Level
+00D732	b	h	0	System Bus	Debug (Bit 1)
+

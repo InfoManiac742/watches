@@ -1,0 +1,10 @@
+SystemID GB
+00D0FD	b	h	1	System Bus	Enemy Status
+00D0FF	w	u	1	System Bus	Enemy HP
+00D107	w	u	1	System Bus	Enemy Speed
+00D145	d	h	1	System Bus	Encounter Rates
+00D9E9	w	h	1	System Bus	Lucky ID (0x03E9)
+00DA3F	w	h	1	System Bus	DVs
+00ABE2	b	h	1	System Bus	
+0EE0	b	u	0	WRAM	
+

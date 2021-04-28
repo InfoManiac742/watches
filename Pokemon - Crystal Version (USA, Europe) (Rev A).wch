@@ -1,0 +1,14 @@
+SystemID GB
+1214	b	h	1	WRAM	Enemy Status
+1216	w	u	1	WRAM	Enemy HP
+121E	w	u	1	WRAM	Enemy Speed
+125A	d	h	1	WRAM	Encounter Rates
+1C9F	w	u	1	WRAM	Lucky ID
+1CF4	w	h	1	WRAM	DVs
+1FD1	w	h	1	WRAM	Raikou Map
+0	S	_	1		
+02FA	d	h	1	WRAM	Walk through walls
+120C	w	h	1	WRAM	Enemy DVs
+1CA1	b	h	1	WRAM	Repel
+1CB5	w	h	1	WRAM	Map
+

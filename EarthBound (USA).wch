@@ -1,0 +1,10 @@
+SystemID SNES
+009C08	w	h	0	WRAM	Event flags
+009C09	b	b	0	WRAM	Spawns Off (0x04)
+00A239	b	h	0	WRAM	Enemy 1 Status
+00A22D	d	h	0	WRAM	Enemy 1 HP
+00A27B	d	h	0	WRAM	Enemy 2 HP
+00A2C9	d	h	0	WRAM	Enemy 3 HP
+000024	d	h	0	WRAM	RNG
+0096C5	d	h	0	WRAM	Text
+

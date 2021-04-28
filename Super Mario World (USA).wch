@@ -1,0 +1,5 @@
+SystemID SNES
+001493	b	h	0	WRAM	Beat Level
+001434	b	h	0	WRAM	Secret
+0013C6	b	h	0	WRAM	Cutscene
+
