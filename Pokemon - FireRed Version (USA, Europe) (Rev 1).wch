@@ -1,0 +1,17 @@
+SystemID GBA
+022B4C	d	h	0	EWRAM	Flags
+023C64	w	u	0	EWRAM	Enemy HP
+023C88	b	h	0	EWRAM	Status
+023D14	w	u	0	EWRAM	Enemy 2 HP
+036E48	w	h	0	EWRAM	X-Pos
+036E4A	w	h	0	EWRAM	Y-Pos
+0386DC	b	h	0	EWRAM	Encounters
+03AD30	w	h	0	EWRAM	Used item
+0	S	_	1		
+0F9C	b	h	0	IWRAM	
+0F9E	b	h	0	IWRAM	
+0FA1	b	h	0	IWRAM	
+5000	d	h	0	IWRAM	RNG
+0370A4	w	h	0	EWRAM	Used item
+002DB0	w	u	0	Combined WRAM	Payout
+
