@@ -1,0 +1,574 @@
+﻿Sequence Position Values
+This document is made in the intent of documenting the different values that the sequence position uses.
+
+
+
+This document is mostly made to be able to warp quickly in the sequence and to actually understand it, as it can be useful to locate revertible and/or progressing triggers.
+
+
+
+SEQUENCE BEGIN
+000: New file
+001: After the cutscene of Luigi showing Peach’s letter (Before reading it) (Value is not seen under normal gameplay)
+002: After seeing the Rogueport map
+
+
+
+PROLOGUE BEGIN
+003: After the boat arrives in Rogueport
+004: After the Lord Crump and Goombella conversation
+005: After the Lord Crump fight
+006: After the Lord Crump and X-Nauts cutscene
+007: After the cutscene after Goombella joining Mario
+008: After the cutscene of the Bandit stealing coins
+009: After the cutscene of meeting with Professor Frankly
+010: After the cutscene after the fence detaching
+011: After the first tutorial cutscene
+012: After the Goomba Trio fight
+013: After Punio going in the hole
+014: After the cutscene of hitting the stair switch
+015: After getting the Airplane Mode curse
+016: After entering TTYD room
+017: After the cutscene near the pedestal
+018: After TTYD cutscene
+019: After the cutscene of meeting with Professor Frankly
+020: After the cutscene of the second tutorial
+021: After the Blooper fight
+022: After entering the pipe to Petal Meadows (Value is not seen under normal gameplay)
+
+
+
+PROLOGUE END
+
+CHAPTER 1 BEGIN
+023: After the cutscene of entering Petal Meadows
+024: After the cutscene of seeing Hooktail
+025: After the cutscene of hitting the bridge switch
+026: After the cutscene of Petalburg welcoming
+027: After meeting Mayor Kroop
+028: After the cutscene after the gate opening
+029: After the first iron gate opening
+030: After the second iron gate opening
+031: After the quiz
+032: After the Gold Fuzzy fight
+033: After Koops joining Mario (Before Koopie Koo arriving)
+034: After the Hooktail Castle pipe appearing
+035: After arriving at Hooktail Castle entrance
+036: UNUSED
+037: After the cutscene of arriving in the broken bridge room at Hooktail Castle
+038: Beginning of Kolorado's dad’s letter cutscene
+039: After the Red Bones fight
+040: After first hitting the stair switch
+041: After getting the key in the stair switch room
+042: After unlocking the door of the stair switch room (As the lock falls)
+043: After opening the chest in the spikes room
+044: After getting out of the spikes room
+045: After getting the Paper Mode curse
+046: After getting the key in the Red Bones room
+047: After unlocking the door in the high stairs room
+048: After hitting the first blue switch in the window room
+049: After hitting the second blue switch in the window room
+050: After entering the room that Ms. Mowz is in
+051: After getting the key in the room with Ms. Mowz
+052: After unlocking the door in the room before the room with Ms. Mowz
+053: After getting the key in the high stairs room
+054: After unlocking the last door
+055: After the Hooktail fight (Value is not seen under normal gameplay)
+056: Getting the Diamond Star
+
+
+
+CHAPTER 1 END
+
+PEACH INTERMISSION BEGIN
+057: After the Grodus cutscene
+058: After Leaving the shower room
+059: After meeting TEC
+
+
+
+PEACH INTERMISSION END
+
+BOWSER INTERMISSION BEGIN
+060: After arriving at Bowser's Castle
+061: After leaving Bowser's Castle
+
+
+
+BOWSER INTERMISSION END
+062: After the cutscene of Mario and Koops preparing to leave
+063: After Peach's email cutscene
+064: After TTYD cutscene
+065: After the cutscene of meeting with Professor Frankly
+066: After Punio going in the hole
+067: After the Punio meeting
+068: After the cutscene of Punio hitting the switch
+069: After the cutscene of when Punio is following Mario to the wall
+070: After entering the Boggly Woods pipe
+
+
+
+CHAPTER 2 BEGIN
+071: After the cutscene of arriving at Boggly Woods
+072: After the Shadow Sirens cutscene
+073: After Punio going into the background pipe before The Great Tree
+074: After the cutscene of arriving at The Great Tree
+075: After the cutscene of talking to Punio in front of the red door
+076: After the cutscene of talking to Punio on the tree
+077: After Flurrie realising she lost her necklace
+078: After leaving The Great Tree
+079: After the Punio cutscene after leaving the background
+080: After the Punio cutscene before the background pipe to Flurrie's house
+081: After the Punio cutscene after arriving at Flurrie's house
+082: After the Punio cutscene after approaching Flurrie's room door
+083: After the cutscene of talking to Flurrie before getting the necklace
+084: After the Shadow Sirens cutscene
+085: After the Shadow Sirens fight
+086: After the cutscene of Vivian dropping the necklace
+087: After the cutscene of Flurrie joining Mario
+088: After the cutscene of Punio unlocking the red door
+089: After the X-Nauts fight
+090: After the 10 punies cutscene
+091: After the cutscene of the X-Naut getting knocked out
+092: After the cutscene of Punio talking to the other punies
+093: After the X-Naut fight
+094: After the cutscene of unlocking the red cage
+095: After getting the Puni Orb
+096: After the pipe appearing in the 11 punies pedestal room
+097: After the cutscene of the Jabbi running away
+098: After the cutscene of getting the Blue Key
+099: After the Dried Shroom cutscene
+100: After the cutscene of Punio going near the blue cage after getting the blue key
+101: After the 101 punies joining Mario
+102: After the trap cutscene
+103: After hitting the black switch before doing the code
+104: After doing the code
+105: After the cutscene of getting the Super Boots
+106: After the cutscene after breaking the cage room floor panel
+107: After activating the 101 punies panel before the Emerald Star room
+108: After the Lord Crump cutscene
+109: After the cutscene of Lord Crump stealing the Emerald Star
+110: After the X-Nauts fight
+111: After the Magnus Von Grapple encounter cutscene
+112: Getting the Emerald Star
+
+
+
+CHAPTER 2 END
+
+PEACH INTERMISSION BEGIN
+113: After the cutscene of the door opening
+114: After the TEC meeting
+
+
+
+PEACH INTERMISSION END
+
+BOWSER INTERMISSION BEGIN
+115: Starting Bowser's level
+116: Finishing Bowser's level
+117: After the cutscene at Petalburg
+
+
+
+BOWSER INTERMISSION END
+118: After the Punies cutscene
+119: After Peach's email cutscene
+120: After TTYD cutscene
+121: After the cutscene of meeting with Professor Frankly
+122: After the Don Pianta meeting
+123: After talking with Francesca and Frankie
+124: After the cutscene of Don Pianta giving you the Blimp Ticket
+125: After the cutscene of leaving the shop
+
+
+
+CHAPTER 3 BEGIN
+126: After the cutscene of the Blimp leaving
+127: After the cutscene of arriving at Glitzville
+128: After the cutscene of seeing the Champ's Belt
+129: After the cutscene of talking to the security guard
+130: After meeting Grubba (Value is seen only if Mario answers “No”)
+131: After the cutscene of entering the Minor League room for the first time (Value is not seen under normal gameplay)
+132: After the cutscene of Jolene explaining the rules before the first fight (Value is not seen under normal gameplay) 
+133: After the Rank 19 fight
+134: After the cutscene of meeting the other Minor League fighters
+135: After the cutscene of leaving the Glitz Pit and seeing the Yoshi egg
+136: After the cutscene of catching the Yoshi egg
+137: After talking to the Yoshi egg
+138: After entering the Major League room
+139: After the email cutscene before getting the Super Hammer
+140: After the email cutscene before breaking the block in Minor League room
+141: After getting access to the Minor League room via the security guard
+142: After breaking the block in the Minor League room
+143: After the cutscene of meeting Jolene
+144: After the email cutscene before first storage key
+145: After the cutscene of meeting Rawk Hawk
+146: After getting the first Storage Room key
+147: After unlocking the first Storage Room door (As the lock falls)
+148: After the email cutscene before hitting the stairs switch
+149: Blowing the covers off of the hammer blocks with Flurrie
+150: After the cutscene of making the stairs appear
+151: After breaking the block on the second floor of the left side of the Storage Room
+152: After the Grubba and Jolene cutscene
+153: After the email cutscene before getting the second Storage Room key
+154: Getting the second Storage Room key
+155: After unlocking the second Storage Room door
+156: After the cutscene of breaking the second block in the right room of the Storage Room
+157: After the cutscene of arriving in the Major League bathroom
+158: After the email cutscene before air duct
+159: Breaking the first air vent in the champion's room
+160: After the partner cutscene inside of the air duct
+161: After the Grubba cutscene in the air duct
+162: Breaking the second vent in the air duct
+163: After the cutscene of Grubba leaving
+164: Getting the Gold Star
+
+
+
+CHAPTER 3 END
+
+PEACH INTERMISSION BEGIN
+165: After the Grodus cutscene
+166: After the TEC meeting
+167: Leaving the changing room after getting clothes
+168: After the cutscene of talking to Grodus
+169: After the cutscene of sending the email
+
+
+
+PEACH INTERMISSION END
+
+BOWSER INTERMISSION BEGIN
+170: After the cutscene of arriving at The Great Tree
+171: After the Bowser and Puni Elder cutscene
+
+
+
+BOWSER INTERMISSION END
+172: After the cutscene of leaving Glitz Pit
+173: After Peach's email cutscene
+174: After TTYD cutscene
+175: After the meeting with Professor Frankly
+176: After the cutscene of Darkly writing names
+177: After entering the pipe to Twilight Town (Value is not seen under normal gameplay)
+
+
+
+CHAPTER 4 BEGIN
+178: After the cutscene of arriving at Twilight Town
+179: After the cutscene of talking to gatekeeper
+180: After the cutscene of seeing the Mayor turned into pig
+181: After bell (Gatekeeper being turned into pig)
+182: After the cutscene of seeing the gatekeeper turned into pig
+183: After opening the town gate
+184: After getting the Storage Room key
+185: After unlocking the Storage Room door (As the lock falls)
+186: UNUSED
+187: After the Tube Mode curse cutscene
+188: After blowing away the tree for the pipe right after the fallen log
+189: After blowing away the second tree in Twilight Trail
+190: After revealing the floor panel with Flurrie
+191: After breaking the floor panel in Twilight Trail
+192: After moving the rock in the background
+193: After arriving at Creepy Steeple exterior
+194: After entering Creepy Steeple (After camera pan)
+195: After the cutscene of pushing the statue
+196: After the cutscene of releasing the Boos
+197: After the cutscene of saying "no" to the Boo in main room
+198: After getting the key for the main room door
+199: After unlocking the main room door (As the lock falls)
+200: After the Doopliss 1 fight
+201: After jumping when fallen on the ground as Shadow Mario
+202: After the Shadow Sirens cutscene
+203: After running away for the first time from Doopliss
+204: After the Vivian cutscene when arriving at Twilight Town
+205: After getting the Superbombomb
+206: After the cutscene of Vivian joining Mario
+207: After running away for the second time from Doopliss
+208: After breaking the floor panel in the room above the torches
+209: After getting the letter
+210: After the cutscene of the parrot saying Doopliss's name
+211: After the Doopliss 2 fight
+212: After Mario turning back to normal (Value is not seen under normal gameplay)
+213: Getting the Ruby Star
+
+
+
+CHAPTER 4 END
+214: After the Shadow Sirens cutscene
+
+
+
+PEACH INTERMISSION BEGIN
+215: After the cutscene of meeting TEC
+
+
+
+PEACH INTERMISSION END
+
+BOWSER INTERMISSION BEGIN
+216: Level start
+217: Level end
+218: After the cutscene of Bowser and Kammy Koopa
+
+
+
+BOWSER INTERMISSION END
+219: After the cutscene of talking to Mayor
+220: After Peach's email cutscene
+221: After TTYD cutscene
+222: After the meeting with Professor Frankly
+223: After the cutscene of talking to Flavio at Podley’s Place (The Inn)
+224: After talking to Flavio on the S.S. Flavion
+225: After the cutscene of talking to Bobbery before Scarlette's letter
+226: After the cutscene of talking to Podley
+227: After the cutscene of talking to Bobbery after Scarlette's letter
+228: After the cutscene of Bobbery leaving
+229: After the cutscene of the S.S. Flavion leaving
+
+
+
+CHAPTER 5 BEGIN
+230: When the camera zooms on the S.S. Flavion
+231: After the S.S. Flavion is fully underwater
+232: After arriving at Keelhaul Key
+233: After the cutscenes after the Ember fight
+234: After the cutscene of Bobbery getting attacked by the Embers
+235: After smacking the tree with the hammer to knock down Bobbery
+236: After the cutscene of talking to Flavio before getting the Chuckola Cola
+237: After the cutscene of talking to Flavio when getting the Chuckola Cola
+238: After the cutscene of talking to Bobbery after giving him the Chuckola Cola
+239: After the cutscene of Bobbery joining Mario
+240: After Flavio following you
+241: After Flavio talking in front of the entrance to Pirate’s Grotto
+242: After destroying the rocks in front of the Pirate’s Grotto entrance
+243: After entering Pirate’s Grotto for the first time
+244: After the cutscene of the "OoOoO" text appearing when entering the second room
+245: After the cutscene of the "OoOoO" text appearing after hitting the blue switch
+246: After talking to the black chest
+247: After the Boat Mode curse cutscene
+248: After the cutscene of the gate opening
+249: After going into the wall spikes room in Boat Mode
+250: After the Francesca and Frankie cutscene
+251: After the Four-Eyes cutscene
+252: After the cutscene of the "OoOoO" text appearing before Cortez's room
+253: Getting the Sapphire Star
+
+
+
+CHAPTER 5 END
+254: After leaving the Black Skull (Cortez’s ship)
+255: After the cutscene with all the Toads
+256: After blowing up the cracked wall with Bobbery
+257: After the cutscene with Lord Crump’s ship
+258: After the cutscene of talking to Cortez with Flavio
+259: After the cutscene of the Black Skull about to leave
+260: After the fight with Lord Crump
+261: After the cutscene of Lord Crump leaving
+
+
+
+PEACH INTERMISSION BEGIN
+262: After the cutscene of the first TEC meeting
+263: After drinking the invisibility potion
+264: After putting back the Data Disk
+265: After the cutscene of the second TEC meeting
+
+
+
+PEACH INTERMISSION END
+
+BOWSER INTERMISSION BEGIN
+266: After the cutscene of arriving at Twilight Town
+267: After the Superbombomb explosion
+
+
+
+BOWSER INTERMISSION END
+268: After arriving at Rogueport
+269: After the Toads leave
+270: After Peach's email cutscene
+271: After TTYD cutscene
+272: After the cutscene of meeting with Professor Frankly
+273: After the Don Pianta cutscene
+274: After arriving at Keelhaul Key via the Black Skull
+275: After the meeting with Frankie and Francesca
+276: After the cutscene of Frankie and Francesca leaving
+277: After the cutscene of Frankie and Francesca preparing to leave Keelhaul Key
+278: After arriving at Rogueport
+279: After the Excess Express Ticket cutscene
+280: After the Beldam cutscene
+281: After the Excess Express leaves Rogueport (Value is not seen under normal gameplay)
+
+
+
+CHAPTER 6 BEGIN
+282: Arriving inside the Excess Express
+283: After talking to the conductor about the note in Mario’s room
+284: After the cutscene with Pennington and the other passengers
+285: After the cutscene of checking the footprints
+286: Talking to the Heff T. (The moment you talk to him)
+287: After the Pennington and Heff T. cutscene
+288: After the cutscene of talking to Pennington in his room
+289: After the cutscene of Goldbob and Sylvia talking about Bub (Value is not seen under normal gameplay)
+290: After talking to Bub (The moment you talk to him) (Value is seen only if Mario answers “No”)
+291: After the cutscene of accepting the Bub's request
+292: After the cutscene of talking to the conductor before talking to the engineer
+293: After the cutscene of getting the engineer's autograph
+294: After the cutscene of giving the autograph to Bub
+295: After talking to the conductor about the Blanket
+296: After talking to Ghost T. (The moment you talk to him)
+297: After accepting Ghost T.'s request
+298: After the conductor lets you enter the baggage room
+299: After getting the Diary
+300: After the cutscene of giving the Diary to Ghost T.
+301: After the cutscene of giving the Blanket to the conductor
+302: After sleeping in Mario's room
+303: After the beginning of second day
+304: After the Pennington and Businessman cutscene
+305: After getting the paper from room 1
+306: After presenting the paper to Pennington and the Businessman
+307: After reading the note in Mario's room
+308: After the cutscene of Zip Toad noticing you
+309: After the cutscene of catching Zip Toad
+310: After the cutscene of arriving at Riverside
+311: After the cutscene of talking to the Toad worker
+312: After unlocking the green door (As the lock falls)
+313: After hitting the red stairs switch
+314: After getting the key in the room with the gears
+315: After unlocking the door in the red stairs room (As the lock falls)
+316: After blowing all of the papers off the door with Flurrie
+317: After the 3 blue switches are revealed
+318: After the red stairs appearing in the 3 blue switches room
+319: After the cutscene of getting the Ultra Boots
+320: After getting the elevator key
+321: After using the elevator key with the elevator
+322: After the cutscene of seeing the Smorgs
+323: After hitting the Smorgs around the lever
+324: After the cutscene of using the lever
+325: After the cutscene of hitting the bridge switch
+326: After the cutscene of the Excess Express leaving Riverside
+327: After sleeping in Mario's room
+328: After the beginning of day 3
+329: After the cutscene of the Smorgs going on the window of the engineer’s room
+330: After the cutscene of seeing the Smorgs in the baggage room
+331: After the cutscene of saving the Toads
+332: After the cutscene of defeating Smorg
+333: After the cutscene of the passengers thanking Mario for saving them
+334: After the cutscene of the Excess Express arriving at Poshley Heights
+335: After the cutscene of Pennington unlocking the door
+336: After the cutscene of entering the Sanctum
+337: After the cutscene of hitting the switch to reveal the pipe
+338: Getting the Garnet Star
+
+
+
+CHAPTER 6 END
+339: After the Pennington cutscene
+
+
+
+PEACH INTERMISSION BEGIN
+340: After the door opening cutscene
+341: After the TEC deletion cutscene
+
+
+
+PEACH INTERMISSION END
+
+BOWSER INTERMISSION BEGIN
+342: Level start
+343: Level end
+344: After the Rawk Hawk cutscene
+
+
+
+BOWSER INTERMISSION END
+345: After the Excess Express arrives at Rogueport
+346: After Peach's email cutscene
+347: After TTYD cutscene
+348: After the cutscene of meeting Professor Frankly
+349: UNUSED
+350: After the cutscene of Professor Frankly telling Mario to go to Fahr Outpost
+351: After entering the pipe to Fahr Outpost (Value is not seen under normal gameplay)
+
+
+
+CHAPTER 7 BEGIN
+352: After the cutscene of arriving at the Fahr Outpost area after going through the pipe
+353: After the cutscene of arriving at Fahr Outpost
+354: After talking to the Mayor about the cannon with Bobbery
+355: After the cutscene of waking up and talking to General White
+356: After talking to the Mayor before going to the cannon
+357: After arriving at The Moon (Value is not seen under normal gameplay)
+358: After the cutscene of arriving at The Moon
+359: After destroying the rock over the pipe to the background
+360: After the cutscene of entering the X-Naut Fortress from the background
+361: After the cutscene of the X-Nauts being beaten
+362: After getting the first elevator key
+363: After using the first elevator key
+364: After reading the red note (The one with the password on it)
+365: After entering the code at the door
+366: After the quiz
+367: After getting the second elevator key
+368: After using the second elevator key
+369: After using all the 3 card keys
+370: After hitting the switch for making the conveyer belt move
+371: After the cutscene of the yellow stairs appearing
+372: After using the last card key
+373: After getting the Crystal Star
+
+
+
+CHAPTER 7 END
+
+BOWSER INTERMISSION BEGIN
+374: After the cutscene of Bowser arriving at Poshley Heights
+375: After the cutscene of Bowser in the Sanctum
+
+
+
+BOWSER INTERMISSION END
+376: After the TEC system failure
+377: After the X-Naut Fortress explosion
+378: After the cutscene of Doopliss disguised as Professor Frankly
+379: After entering TTYD room
+380: After the cutscene of opening TTYD
+381: After opening TTYD (Value is not seen under normal gameplay)
+
+
+
+CHAPTER 8 BEGIN
+382: After arriving in the Palace of Shadow
+383: After the Dark Bones fight
+384: After getting the key from the Dark Bones
+385: After unlocking the door in the Dark Bones room (As the lock falls)
+386: Opening the last door of the torches room (As you open the door)
+387: After the cutscene of arriving at the front of the Riddle Tower
+388: After the cutscene of Gloomtail being beaten
+389: After the cutscene of the 8 keyholes appearing at the top of the Riddle Tower
+390: After the cutscene of the stairs appearing/floor lowering
+391: After the cutscene of the Shadow Sirens and Doopliss being beaten
+392: After blowing away the wall on the right of the stairs room with Flurrie
+393: After getting the key in wooden wheel room
+394: After unlocking the door the wooden wheel room (As the lock falls)
+395: After entering the star code for the wooden wheel
+396: After breaking the floor panel at the room to the left of the wooden wheel room
+397: After getting the key in the room behind the plane panel room
+398: After unlocking the door in the plane panel room (As the lock falls)
+399: After the cutscene of arriving in the Grodus and Bowser room
+400: After the cutscene after the Bowser fight
+401: After the last Shadow Queen fight
+402: After the cutscene of the Shadow Queen vanishing
+403: After the cutscene at Mario's house
+
+
+
+CHAPTER 8 END
+404: After the beginning of the staff credits
+405: After the cutscene of arriving at Rogueport
+
+
+
+SEQUENCE END
