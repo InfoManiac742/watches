@@ -1,3 +1,5 @@
+;Originally from https://lemmy.neocities.org/zelda2/ram_map.txt
+
 79 	;are used to draw the Overworld tiles? offset in the Name Table(s) for Overworld redrawing.
 7A 	;are used to draw the Overworld tiles? offset in the Name Table(s) for Overworld redrawing.
 754 	;in_elevator (boolean)
