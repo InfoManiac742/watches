@@ -2,14 +2,14 @@ Maps in Simon's Quest are identified by three different bytes, each of which for
 
 Map IDs: $018C-$018E
 
-Map Group 0:
+00: Towns
   00: Jova
   01: Veros
   02: Aljiba
-  03: Aldra/Alba
-  04: Ondol/Oldon/Andole
-  05: Doina/Fetra
-  06: Yomi/Ghulash
+  03: Aldra
+  04: Ondol
+  05: Doina
+  06: Yomi
   07: Church
   08: Thorn Whip vendor room, Jova
   09: Holy Water vendor room, Jova
@@ -39,3 +39,28 @@ Map Group 0:
   15: Laurel vendor room, Doina
   16: Empty room, Yomi
   17: Old woman room, Yomi
+01: Mansions
+  00: Outside Laruba
+  01: Outside Berkeley
+  02: Outside Rover
+  03: Outside Brahm's
+  04: Outside Bodley
+  06: Laruba
+    00: Front room
+    01: Back room
+    02: Carmilla room
+    03: Orb room
+  07: Berkeley
+    00: Front room
+    01: Back room
+  08: Rover
+    00: Front room
+    01: Back room
+  09: Brahm's
+    00: Front room
+    01: Back room and pre-Death corridor
+    02: Death room
+    03: Orb room
+  0A: Bodley
+    00: Front room
+    01: Back room
