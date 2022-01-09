@@ -64,3 +64,29 @@ Map IDs: $018C-$018E
   0A: Bodley
     00: Front room
     01: Back room
+02:
+  00:
+    00: Jova Woods
+    01: South Bridge
+    02: Veros Woods (West)
+    03: Veros Woods (Central)
+  01: Veros Woods (East)
+  02: Aljiba Woods (East)
+  03:
+    00: Dabi's Path (West)
+    01: Dabi's Path (East)
+    02: Aljiba Woods (West)
+    03: Aljiba Woods (Central)
+  04:
+    00: Denis Woods (West)
+    01: Denis Woods (East)
+  05:
+    00: Lower Road
+    01: Yuba Lake
+  06: Dead River (Brahm's)
+  07:
+    00: Dead River (Aldra)
+    01: Dead River (Belasco)
+    02: Belasco Marsh
+  08:
+    00: North Bridge
