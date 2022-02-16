@@ -1,0 +1,14 @@
+SystemID NES
+0014	b	h	0	RAM	Exit
+0745	b	h	0	RAM	Fortress
+073C	b	h	0	RAM	World End
+03F3	b	h	0	RAM	Cloud (7)
+1D80	b	h	0	WRAM	Hammer (B)
+1F53	b	h	0	WRAM	Music Box
+0729	b	h	0	RAM	Map Event
+0781	b	h	0	RAM	RNG
+0	S	_	1		
+05F3	b	h	0	RAM	Disable Timer
+0552	b	h	0	RAM	Invincible
+0588	b	h	0	RAM	White Block Timer
+

@@ -1,0 +1,5 @@
+SystemID NES
+0096	b	u	0	RAM	Item (42)
+04B5	b	h	0	RAM	Crystal
+009C	b	h	0	RAM	Holding item?
+

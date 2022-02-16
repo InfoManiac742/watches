@@ -1,0 +1,8 @@
+SystemID NES
+0001	b	u	0	RAM	Boxer 868
+0323	w	h	1	RAM	Hearts (0500)
+0342	b	u	0	RAM	Star Punches
+0348	b	u	0	RAM	Dodge Counter
+0391	b	u	0	RAM	Mac's Health (96)
+0398	b	u	0	RAM	Opponent's Health (96)
+
