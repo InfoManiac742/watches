@@ -1,0 +1,13 @@
+SystemID NDS
+00012D94	d	h	0	Main RAM	e1a00000
+000C07E4	d	h	0	Main RAM	RNG
+000CA9F0	w	h	1	Main RAM	0709
+000F7256	w	h	0	Main RAM	lock
+000F7410	w	u	0	Main RAM	HP
+000F7412	w	u	0	Main RAM	Max HP
+000F7414	w	u	0	Main RAM	MP
+000F7416	w	u	0	Main RAM	Max MP
+000F7448	d	u	0	Main RAM	EXP
+000F744C	d	u	0	Main RAM	Gold
+000F70D2	b	h	0	Main RAM	Souls
+

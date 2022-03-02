@@ -1,0 +1,5 @@
+SystemID GB
+0008	b	u	0	WRAM	
+0018	b	h	0	WRAM	
+0C80	b	h	1	WRAM	
+

@@ -1,11 +1,16 @@
 SystemID NES
 0046	w	h	0	RAM	EXP
 0048	w	h	0	RAM	Hearts
-0080	b	h	0	RAM	HP
-0084	b	h	0	RAM	Seconds
-0324	b	h	0	RAM	Y-Position
-0336	b	h	0	RAM	Y-Subpixel
+006D	b	h	0	RAM	X-Speed
+0084	b	h	0	RAM	time
+0324	b	h	0	RAM	
+0336	b	h	0	RAM	
 0348	b	h	0	RAM	X-Position
-04C8	b	u	0	RAM	Enemy HP
-04F8	b	h	0	RAM	I-Frames (0x40)
+03D8	b	h	0	RAM	9 stairs
+04C8	b	h	0	RAM	Boss Health
+04F8	b	u	0	RAM	I-frames
+0080	b	h	0	RAM	Health
+018C	b	h	0	RAM	Map Group
+018D	b	h	0	RAM	Map ID
+018E	b	h	0	RAM	Map Room
 

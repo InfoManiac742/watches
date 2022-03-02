@@ -1,0 +1,18 @@
+SystemID NDS
+000FCB42	w	h	1	Main RAM	Invincible (0B0D, Jonathan)
+000FCB44	b	h	1	Main RAM	Invincible (0D, Jonathan)
+000FCCA2	w	h	1	Main RAM	Invincible (0B0D, Charlotte)
+000FCCA4	b	h	1	Main RAM	Invincible (0D, Charlotte)
+00111CCC	b	h	0	Main RAM	Skills
+00111D76	w	u	0	Main RAM	Enemy Kill Counts
+00111FC0	w	h	0	Main RAM	ATK (Jonathan)
+00111FCC	w	h	0	Main RAM	Luck (Jonathan)
+0011216C	w	u	0	Main RAM	HP
+00112170	w	u	0	Main RAM	MP
+001121C0	d	u	0	Main RAM	EXP
+001121C4	d	u	0	Main RAM	Money
+0	S	_	1		
+00111BF8	b	h	0	Main RAM	Items
+00111C74	b	h	0	Main RAM	Head Items
+00112182	w	h	0	Main RAM	Jonathan Head
+
