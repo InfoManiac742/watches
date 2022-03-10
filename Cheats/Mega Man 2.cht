@@ -1,5 +1,2 @@
-02E564	A9	N	PRG ROM	1	Invincible	b	h	0	None	
-038A5A	A9	N	PRG ROM	1	Invincible	b	h	0	None	
-038CBE	A9	N	PRG ROM	1	Invincible	b	h	0	None	
-039E4B	A9	N	PRG ROM	1	Invincible	b	h	0	None	
-03E596	A9	N	PRG ROM	1	Invincible	b	h	0	None	
+004B	FF	N	RAM	1	Invincible	b	h	0	None	
+03CE36	50	N	PRG ROM	1	Invincible	b	h	0	None	
